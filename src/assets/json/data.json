@@ -1,0 +1,1006 @@
+[
+  {
+    "rate": "1000/day",
+    "name": "House 1",
+    "address": "456 Elm St, Othertown, Hyderabad",
+    "details": {
+      "beds": 5,
+      "bath": 5,
+      "area": "99x35"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Random_House.jpg",
+    "latitude": 12.789789,
+    "longitude": 77.678976
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 2",
+    "address": "204-cbc nagar,byz-road, Chennai",
+    "details": {
+      "beds": 2,
+      "bath": 1,
+      "area": "5x90"
+    },
+    "image":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Random_House.jpg"
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 3",
+    "address": "789 Oak St, Anothertown, Hyderabad",
+    "details": {
+      "beds": 2,
+      "bath": 3,
+      "area": "30x16"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 4",
+    "address": "204-cbc nagar,byz-road, Chennai",
+    "details": {
+      "beds": 1,
+      "bath": 4,
+      "area": "11x13"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 5",
+    "address": "204-cbc nagar,byz-road, Chennai",
+    "details": {
+      "beds": 4,
+      "bath": 4,
+      "area": "7x19"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 6",
+    "address": "101 Pine St, Yetanothertown, Bangalore",
+    "details": {
+      "beds": 4,
+      "bath": 4,
+      "area": "47x38"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 7",
+    "address": "123 Main St, Anytown, Delhi",
+    "details": {
+      "beds": 1,
+      "bath": 2,
+      "area": "53x90"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 8",
+    "address": "123 Main St, Anytown, Mumbai",
+    "details": {
+      "beds": 5,
+      "bath": 1,
+      "area": "8x8"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 9",
+    "address": "456 Elm St, Othertown, Mumbai",
+    "details": {
+      "beds": 5,
+      "bath": 1,
+      "area": "92x74"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 10",
+    "address": "123 Main St, Anytown, Delhi",
+    "details": {
+      "beds": 1,
+      "bath": 1,
+      "area": "23x66"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 11",
+    "address": "789 Oak St, Anothertown, Chennai",
+    "details": {
+      "beds": 1,
+      "bath": 3,
+      "area": "68x56"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 12",
+    "address": "456 Elm St, Othertown, Hyderabad",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "94x75"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 13",
+    "address": "123 Main St, Anytown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 4,
+      "area": "27x14"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 14",
+    "address": "204-cbc nagar,byz-road, Hyderabad",
+    "details": {
+      "beds": 3,
+      "bath": 3,
+      "area": "86x24"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 15",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 4,
+      "bath": 3,
+      "area": "10x32"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 16",
+    "address": "789 Oak St, Anothertown, Chennai",
+    "details": {
+      "beds": 1,
+      "bath": 4,
+      "area": "35x7"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 17",
+    "address": "456 Elm St, Othertown, Delhi",
+    "details": {
+      "beds": 2,
+      "bath": 2,
+      "area": "61x24"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 18",
+    "address": "101 Pine St, Yetanothertown, Bangalore",
+    "details": {
+      "beds": 3,
+      "bath": 4,
+      "area": "10x14"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 19",
+    "address": "123 Main St, Anytown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "96x75"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 20",
+    "address": "789 Oak St, Anothertown, Chennai",
+    "details": {
+      "beds": 1,
+      "bath": 3,
+      "area": "22x32"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 21",
+    "address": "123 Main St, Anytown, Hyderabad",
+    "details": {
+      "beds": 5,
+      "bath": 1,
+      "area": "43x97"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 22",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 3,
+      "bath": 4,
+      "area": "43x51"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 23",
+    "address": "456 Elm St, Othertown, Bangalore",
+    "details": {
+      "beds": 4,
+      "bath": 5,
+      "area": "83x41"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 24",
+    "address": "456 Elm St, Othertown, Bangalore",
+    "details": {
+      "beds": 4,
+      "bath": 3,
+      "area": "8x67"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 25",
+    "address": "456 Elm St, Othertown, Hyderabad",
+    "details": {
+      "beds": 1,
+      "bath": 5,
+      "area": "68x57"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 26",
+    "address": "101 Pine St, Yetanothertown, Hyderabad",
+    "details": {
+      "beds": 3,
+      "bath": 4,
+      "area": "6x88"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 27",
+    "address": "456 Elm St, Othertown, Bangalore",
+    "details": {
+      "beds": 5,
+      "bath": 2,
+      "area": "84x59"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 28",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 3,
+      "area": "23x98"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 29",
+    "address": "789 Oak St, Anothertown, Bangalore",
+    "details": {
+      "beds": 1,
+      "bath": 4,
+      "area": "57x52"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 30",
+    "address": "123 Main St, Anytown, Hyderabad",
+    "details": {
+      "beds": 5,
+      "bath": 4,
+      "area": "40x5"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 31",
+    "address": "789 Oak St, Anothertown, Chennai",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "48x57"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 32",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 4,
+      "bath": 4,
+      "area": "0x26"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 33",
+    "address": "123 Main St, Anytown, Bangalore",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "33x93"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 34",
+    "address": "101 Pine St, Yetanothertown, Hyderabad",
+    "details": {
+      "beds": 1,
+      "bath": 1,
+      "area": "86x79"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 35",
+    "address": "123 Main St, Anytown, Mumbai",
+    "details": {
+      "beds": 3,
+      "bath": 2,
+      "area": "8x47"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 36",
+    "address": "789 Oak St, Anothertown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 2,
+      "area": "7x8"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 37",
+    "address": "456 Elm St, Othertown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 3,
+      "area": "38x88"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 38",
+    "address": "456 Elm St, Othertown, Mumbai",
+    "details": {
+      "beds": 5,
+      "bath": 3,
+      "area": "57x57"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 39",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 3,
+      "bath": 4,
+      "area": "91x37"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 40",
+    "address": "204-cbc nagar,byz-road, Bangalore",
+    "details": {
+      "beds": 2,
+      "bath": 3,
+      "area": "3x48"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 41",
+    "address": "204-cbc nagar,byz-road, Bangalore",
+    "details": {
+      "beds": 1,
+      "bath": 3,
+      "area": "90x80"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 42",
+    "address": "101 Pine St, Yetanothertown, Delhi",
+    "details": {
+      "beds": 1,
+      "bath": 2,
+      "area": "59x93"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 43",
+    "address": "456 Elm St, Othertown, Delhi",
+    "details": {
+      "beds": 5,
+      "bath": 5,
+      "area": "11x58"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 44",
+    "address": "123 Main St, Anytown, Bangalore",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "25x90"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 45",
+    "address": "789 Oak St, Anothertown, Delhi",
+    "details": {
+      "beds": 2,
+      "bath": 3,
+      "area": "48x99"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 46",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 1,
+      "area": "7x78"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 47",
+    "address": "204-cbc nagar,byz-road, Chennai",
+    "details": {
+      "beds": 3,
+      "bath": 5,
+      "area": "7x94"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 48",
+    "address": "204-cbc nagar,byz-road, Chennai",
+    "details": {
+      "beds": 2,
+      "bath": 2,
+      "area": "78x47"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 49",
+    "address": "456 Elm St, Othertown, Chennai",
+    "details": {
+      "beds": 1,
+      "bath": 5,
+      "area": "86x27"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 50",
+    "address": "123 Main St, Anytown, Hyderabad",
+    "details": {
+      "beds": 1,
+      "bath": 2,
+      "area": "56x60"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 51",
+    "address": "789 Oak St, Anothertown, Mumbai",
+    "details": {
+      "beds": 3,
+      "bath": 3,
+      "area": "45x96"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 52",
+    "address": "789 Oak St, Anothertown, Hyderabad",
+    "details": {
+      "beds": 5,
+      "bath": 4,
+      "area": "52x36"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 53",
+    "address": "456 Elm St, Othertown, Bangalore",
+    "details": {
+      "beds": 2,
+      "bath": 1,
+      "area": "24x47"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 54",
+    "address": "101 Pine St, Yetanothertown, Chennai",
+    "details": {
+      "beds": 5,
+      "bath": 5,
+      "area": "6x89"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 55",
+    "address": "456 Elm St, Othertown, Chennai",
+    "details": {
+      "beds": 3,
+      "bath": 1,
+      "area": "75x71"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 56",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 3,
+      "bath": 3,
+      "area": "39x2"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 57",
+    "address": "204-cbc nagar,byz-road, Bangalore",
+    "details": {
+      "beds": 2,
+      "bath": 4,
+      "area": "57x37"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 58",
+    "address": "101 Pine St, Yetanothertown, Delhi",
+    "details": {
+      "beds": 3,
+      "bath": 1,
+      "area": "30x39"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 59",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 5,
+      "bath": 1,
+      "area": "61x57"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 60",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 5,
+      "bath": 1,
+      "area": "4x63"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 61",
+    "address": "101 Pine St, Yetanothertown, Chennai",
+    "details": {
+      "beds": 3,
+      "bath": 4,
+      "area": "36x37"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 62",
+    "address": "101 Pine St, Yetanothertown, Chennai",
+    "details": {
+      "beds": 1,
+      "bath": 1,
+      "area": "71x98"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 63",
+    "address": "789 Oak St, Anothertown, Mumbai",
+    "details": {
+      "beds": 5,
+      "bath": 3,
+      "area": "92x59"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 64",
+    "address": "789 Oak St, Anothertown, Delhi",
+    "details": {
+      "beds": 1,
+      "bath": 3,
+      "area": "38x90"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 65",
+    "address": "789 Oak St, Anothertown, Chennai",
+    "details": {
+      "beds": 5,
+      "bath": 1,
+      "area": "94x79"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 66",
+    "address": "204-cbc nagar,byz-road, Hyderabad",
+    "details": {
+      "beds": 4,
+      "bath": 2,
+      "area": "35x43"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 67",
+    "address": "789 Oak St, Anothertown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "94x25"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 68",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 1,
+      "bath": 4,
+      "area": "36x42"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 69",
+    "address": "101 Pine St, Yetanothertown, Hyderabad",
+    "details": {
+      "beds": 5,
+      "bath": 2,
+      "area": "30x35"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 70",
+    "address": "101 Pine St, Yetanothertown, Hyderabad",
+    "details": {
+      "beds": 5,
+      "bath": 1,
+      "area": "93x76"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 71",
+    "address": "204-cbc nagar,byz-road, Bangalore",
+    "details": {
+      "beds": 4,
+      "bath": 1,
+      "area": "93x20"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 72",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 5,
+      "bath": 4,
+      "area": "44x96"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 73",
+    "address": "789 Oak St, Anothertown, Bangalore",
+    "details": {
+      "beds": 1,
+      "bath": 5,
+      "area": "64x92"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 74",
+    "address": "101 Pine St, Yetanothertown, Chennai",
+    "details": {
+      "beds": 3,
+      "bath": 2,
+      "area": "35x86"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 75",
+    "address": "204-cbc nagar,byz-road, Chennai",
+    "details": {
+      "beds": 5,
+      "bath": 2,
+      "area": "24x53"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 76",
+    "address": "101 Pine St, Yetanothertown, Hyderabad",
+    "details": {
+      "beds": 5,
+      "bath": 2,
+      "area": "22x16"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 77",
+    "address": "789 Oak St, Anothertown, Hyderabad",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "8x51"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 78",
+    "address": "789 Oak St, Anothertown, Hyderabad",
+    "details": {
+      "beds": 4,
+      "bath": 2,
+      "area": "43x60"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 79",
+    "address": "456 Elm St, Othertown, Bangalore",
+    "details": {
+      "beds": 4,
+      "bath": 3,
+      "area": "58x99"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 80",
+    "address": "789 Oak St, Anothertown, Mumbai",
+    "details": {
+      "beds": 4,
+      "bath": 4,
+      "area": "1x81"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 81",
+    "address": "123 Main St, Anytown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "26x66"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 82",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 1,
+      "bath": 1,
+      "area": "53x83"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 83",
+    "address": "204-cbc nagar,byz-road, Bangalore",
+    "details": {
+      "beds": 2,
+      "bath": 1,
+      "area": "49x34"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 84",
+    "address": "456 Elm St, Othertown, Hyderabad",
+    "details": {
+      "beds": 4,
+      "bath": 5,
+      "area": "96x35"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 85",
+    "address": "204-cbc nagar,byz-road, Bangalore",
+    "details": {
+      "beds": 3,
+      "bath": 1,
+      "area": "50x86"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 86",
+    "address": "204-cbc nagar,byz-road, Chennai",
+    "details": {
+      "beds": 2,
+      "bath": 5,
+      "area": "64x39"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 87",
+    "address": "789 Oak St, Anothertown, Delhi",
+    "details": {
+      "beds": 1,
+      "bath": 1,
+      "area": "7x98"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 88",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 4,
+      "bath": 4,
+      "area": "81x95"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 89",
+    "address": "789 Oak St, Anothertown, Bangalore",
+    "details": {
+      "beds": 1,
+      "bath": 1,
+      "area": "28x100"
+    }
+  },
+  {
+    "rate": "1450/day",
+    "name": "House 90",
+    "address": "204-cbc nagar,byz-road, Bangalore",
+    "details": {
+      "beds": 3,
+      "bath": 5,
+      "area": "19x93"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 91",
+    "address": "789 Oak St, Anothertown, Chennai",
+    "details": {
+      "beds": 2,
+      "bath": 4,
+      "area": "26x82"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 92",
+    "address": "123 Main St, Anytown, Mumbai",
+    "details": {
+      "beds": 1,
+      "bath": 5,
+      "area": "16x30"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 93",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 1,
+      "bath": 2,
+      "area": "62x50"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 94",
+    "address": "789 Oak St, Anothertown, Hyderabad",
+    "details": {
+      "beds": 2,
+      "bath": 1,
+      "area": "29x72"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 95",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 1,
+      "bath": 2,
+      "area": "12x92"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 96",
+    "address": "204-cbc nagar,byz-road, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 4,
+      "area": "36x82"
+    }
+  },
+  {
+    "rate": "3000/day",
+    "name": "House 97",
+    "address": "101 Pine St, Yetanothertown, Mumbai",
+    "details": {
+      "beds": 2,
+      "bath": 4,
+      "area": "34x56"
+    }
+  },
+  {
+    "rate": "1000/day",
+    "name": "House 98",
+    "address": "101 Pine St, Yetanothertown, Delhi",
+    "details": {
+      "beds": 1,
+      "bath": 5,
+      "area": "37x100"
+    }
+  },
+  {
+    "rate": "2500/day",
+    "name": "House 99",
+    "address": "456 Elm St, Othertown, Mumbai",
+    "details": {
+      "beds": 4,
+      "bath": 1,
+      "area": "92x16"
+    }
+  },
+  {
+    "rate": "2000/day",
+    "name": "House 100",
+    "address": "123 Main St, Anytown, Chennai",
+    "details": {
+      "beds": 2,
+      "bath": 3,
+      "area": "55x21"
+    }
+  }
+]
