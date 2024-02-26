@@ -6,7 +6,6 @@ import Layout from "./Components/Layout";
 import Home from "./Components/Home/Home";
 import { store } from "./Redux/Store";
 import { Provider } from "react-redux";
-import Liked from "./Components/Home/Liked";
 
 function App() {
   document.title = "Rent A Home"
