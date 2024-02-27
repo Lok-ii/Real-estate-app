@@ -8,11 +8,11 @@ import { FaLinkedin } from "react-icons/fa6";
 const Footer = () => {
   return (
     <div className="w-full flex flex-col items-center py-8 gap-8 bg-white">
-      <div className="flex w-[70%] justify-around">
+      <div className="flex flex-col items-center w-[90%] laptop:w-[70%] laptop:flex-row justify-around">
         <div className="w-[17rem] h-[6rem]">
           <img className="w-full h-full" src={logo} alt="" />
         </div>
-        <div className="flex flex-wrap gap-12 w-[50%] justify-between">
+        <div className="flex flex-wrap gap-12 w-[90%] laptop:w-[50%] justify-between">
           <div className="flex flex-col gap-4">
             <h1 className="text-sm font-semibold">SELL A HOME</h1>
             <div className="flex flex-col gap-2 text-gray-500">
@@ -65,7 +65,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="flex items-center px-24 justify-between border-t-2 w-[80%] pt-4 font-medium text-gray-500">
+      <div className="flex flex-col tablet:flex-row items-center gap-4 mobile-large:px-24 justify-between border-t-2 w-[80%] pt-4 font-medium text-gray-500">
         <p className="text-xs cursor-pointer hover:underline">©2024 Estelle Darcy. All rights Reserved</p>
         <div className="flex items-center gap-8">
           <FaFacebookF className="cursor-pointer" />
