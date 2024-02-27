@@ -16,7 +16,17 @@ export default {
       },
       zIndex: {
         "8" : "8",
-      }
+      },
+      screens: {
+        'tablet': '769px',
+        // => @media (min-width: 640px) { ... }
+  
+        'laptop': '1025px',
+        // => @media (min-width: 1024px) { ... }
+  
+        'desktop': '1281px',
+        // => @media (min-width: 1280px) { ... }
+      },
     },
   },
   plugins: [],

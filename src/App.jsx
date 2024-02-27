@@ -8,7 +8,7 @@ import { store } from "./Redux/Store";
 import { Provider } from "react-redux";
 
 function App() {
-  document.title = "Rent A Home"
+  document.title = "Rent A Home";
   const router = createBrowserRouter([
     {
       path: "/",
@@ -18,12 +18,6 @@ function App() {
           path: "/",
           element: <Home />,
         },
-
-        {
-          path: "/rent",
-          element: <Home />,
-        },
-
         {
           path: "/buy",
           element: <Home />,
@@ -34,25 +28,17 @@ function App() {
           element: <Home />,
         },
         {
-          path: "/manageproperty",
-          element: <Home />,
-        },
-        {
-          path: "/resources",
-          element: <Home />,
-        },
-        {
           path: "/filter",
-          element: <Home />
+          element: <Home />,
         },
         {
-          path:'/search',
-          element: <Home />
+          path: "/search",
+          element: <Home />,
         },
         {
           path: "/liked",
-          element: <Home />
-        }
+          element: <Home />,
+        },
       ],
     },
   ]);
