@@ -18,6 +18,10 @@ export default {
         "8" : "8",
       },
       screens: {
+        'mobile-small' : '321px',
+        'mobile-medium' : '426px',
+        'mobile-large' : '476px',
+
         'tablet': '769px',
         // => @media (min-width: 640px) { ... }
   

@@ -19,7 +19,7 @@ const Warehouse = ({ warehouse }) => {
     }
   },[])
   return (
-    <div className="w-[30%] border-2 rounded-lg border-buttonColor cursor-pointer transition-all duration-300 hover:shadow-3xl">
+    <div className="w-[95%] mobile-large:w-[45%] laptop:w-[30%] border-2 rounded-lg border-buttonColor cursor-pointer transition-all duration-300 hover:shadow-3xl">
       <div className="w-full h-[15rem] rounded-t-lg">
         <img
           className="w-full h-full rounded-t-lg"

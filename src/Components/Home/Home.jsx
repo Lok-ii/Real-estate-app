@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <div className='flex flex-col items-center gap-8 w-full'>
       <Filter />
-      <div className=' flex items-center flex-wrap w-[80%] justify-around gap-4'>
+      <div className=' flex items-center flex-wrap w-[95%] laptop:w-[80%] justify-around gap-4'>
         {
             data.length !== 0 ? data.map((warehouse) => {
                 return <Warehouse warehouse={warehouse} key={warehouse.id} />

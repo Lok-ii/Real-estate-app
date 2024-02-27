@@ -17,8 +17,8 @@ const Filter = () => {
   const cities = [...new Set(warehouseData.map((warehouse) => warehouse.city))];
   const types = [...new Set(warehouseData.map((warehouse) => warehouse.type))];
   return (
-    <form className="flex items-center w-[90%] justify-between flex-wrap">
-      <div className="flex items-center justify-evenly w-[90%] flex-wrap">
+    <form className="flex items-center w-[90%] justify-center gap-y-4 tablet:justify-between flex-wrap">
+      {/* <div className="flex items-center justify-evenly w-[90%] flex-wrap"> */}
         <div className="flex items-center gap-4">
           <label htmlFor="city">Enter City</label>
           <select name="city" id="city" ref={cityRef}>
@@ -56,7 +56,7 @@ const Filter = () => {
             <option value={3000}>Rs. 2500 - 3000</option>
           </select>
         </div>
-      </div>
+      {/* </div> */}
       <button
         type="submit"
         className="py-2 px-4 rounded-lg bg-buttonColor text-white font-medium"
